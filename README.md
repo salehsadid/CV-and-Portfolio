@@ -5,7 +5,7 @@ Welcome to the official GitHub repository containing my **Curriculum Vitae (CV)*
 ---
 ## 🎓 Career Objective
 
-Dedicated Computer Science and Engineering undergraduate skilled in software development and hardware integration. Proficient in C, C++, Python, and Arduino, with hands-on experience in PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
+### Dedicated Computer Science and Engineering undergraduate skilled in software development and hardware integration. Proficient in C, C++, Python, and Arduino, with hands-on experience in PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
 ---
 
 ## 📂 Repository Contents
