@@ -1,14 +1,16 @@
 # 💼 Saleh Sadid Mir — CV & Portfolio
 
 Welcome to the official GitHub repository containing my **Curriculum Vitae (CV)** and **portfolio**.  
-I am a passionate **Computer Science and Engineering undergraduate at KUET**, dedicated to exploring real-world solutions through software development, hardware prototyping, and innovative technologies.
 
+---
+## 🎓 Career Objective
+Dedicated Computer Science and Engineering undergraduate skilled in software development and hardware integration. Proficient in C, C++, Python, and Arduino, with hands-on experience in PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
 ---
 
 ## 📂 Repository Contents
 
 - `Saleh_Sadid_Mir_CV.pdf` — My latest resume (updated June 2024)
-- `Portfolio_Slides.pdf` — Slide-based visual portfolio including projects, events, and leadership roles
+- `Saleh_Sadid_Mir_Portfolio.pdf` — Slide-based visual portfolio 
 - `README.md` — This file
 
 ---
@@ -53,5 +55,5 @@ I am a passionate **Computer Science and Engineering undergraduate at KUET**, de
 ---
 
 > Feel free to explore, download, or connect!  
-> I'm open to collaborations, internships, research opportunities, and hackathons.
+> I'm open to collaborations, internships, research opportunities.
 
