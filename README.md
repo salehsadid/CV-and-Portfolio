@@ -1,60 +1,106 @@
-# 💼 Saleh Sadid Mir — CV & Portfolio
+# Saleh Sadid Mir — CV & Portfolio
 
-Welcome to the official GitHub repository containing my **Curriculum Vitae (CV)** and **portfolio**.  
-
----
-## 🎓 Career Objective
-
-### Dedicated Computer Science and Engineering undergraduate skilled in software development and hardware integration. Proficient in C, C++, Python, and Arduino, with hands-on experience in PCB design, EasyEDA, Altium Designer, CNC machines, and hardware prototyping. Eager to apply my technical knowledge and problem-solving skills to real-world technology challenges in a dynamic environment.
----
-
-## 📂 Repository Contents
-
-- `Saleh_Sadid_Mir_CV.pdf` — My latest resume (updated June 2024)
-- `Saleh_Sadid_Mir_Portfolio.pdf` — Slide-based visual portfolio 
-- `README.md` — This file
+Welcome to my official CV & Portfolio repository. This repository showcases my academic background, technical skills, projects, leadership experience, and professional journey as a Computer Science and Engineering undergraduate.
 
 ---
 
-## 👨‍💻 About Me
+# About Me
 
-- 🎓 **Undergraduate Student, CSE**, KUET — CGPA: 3.43 (2nd Year)  
-- 💻 Proficient in **C, C++, Python, HTML**, Arduino, and Git/GitHub  
-- ⚙️ Hands-on experience with **PCB design (EasyEDA, Altium), SolidWorks, CNC machines**, and **hardware prototyping**  
-- 🧠 Skilled in **AI tools**, including **Prompt Engineering** and **Microsoft Copilot**  
-- 🗣 Active in **public speaking, event organization**, and **competitive programming**
+I am a Computer Science and Engineering undergraduate at Khulna University of Engineering & Technology (KUET) with a strong interest in software development, web technologies, mobile applications, AI-driven solutions, and embedded systems.
+
+I enjoy building practical technology solutions, participating in technical communities, and continuously learning new technologies that bridge software and hardware.
 
 ---
 
-## 🛠 Technical Skills
+# Career Objective
 
-- **Programming Languages:** C, C++, Python, HTML  
-- **Embedded Systems & Hardware:** Arduino, NodeMCU, PCB Design, EasyEDA, Altium Designer, SolidWorks, Logisim, TinkerCAD  
-- **AI & Tools:** Prompt Engineering, Microsoft Copilot  
-- **Version Control & Software:** Git, GitHub, MS Office, Canva  
-- **Event Leadership:** BitFest, SGIPC Genesis, BizzBattle, Green Society Tree Plantation Drives
+Computer Science and Engineering undergraduate with a strong interest in software development, web technologies, mobile applications, AI-driven solutions, and embedded systems. Seeking opportunities to utilize technical knowledge, project experience, and problem-solving skills to contribute to innovative projects while continuously learning and advancing in the field of technology.
 
 ---
 
-## 🧩 Experience Highlights
+# Technical Skills
 
-- **Head of Finance**, Green Society – Managed budgets, secured sponsorships, and led eco-campaigns  
-- **Doubt Solver**, ACS by Ronon – Solved academic queries for admission-level students  
-- **Script Evaluator**, UDVASH – Evaluated HSC and university-level exam scripts  
-- **Event Lead**, SGIPC Genesis – Introduced freshers to Competitive Programming  
-- **Organizer**, BitFest 2025 – Worked on hands-on hardware projects and national-level tech event  
-- **Executive Member**, KUET Career Club – Organized BizzBattle 2025 (Business Idea Competition)
+## Programming Languages
+
+* C, C++, C#, Java, Python, PHP, JavaScript, SQL
+
+## Web Development
+
+* HTML5, CSS3, ASP.NET, Laravel, PHP, Responsive Web Design
+
+## Mobile Development
+
+* Flutter, Android Development (Basic)
+
+## Hardware & IoT
+
+* Arduino, Raspberry Pi, Blynk, IoT Prototyping, Embedded Systems, Hardware-Software Integration
+
+## Database
+
+* MySQL, SQLite, PL/SQL, Database Design
+
+## Design & Simulation
+
+* EasyEDA, Altium Designer, SolidWorks, Tinkercad, Logisim
+
+## Development Tools
+
+* Git, GitHub, Visual Studio, Visual Studio Code, Android Studio, Arduino IDE, Jira, Canva, MS Office Suite
+
+## AI & Productivity Tools
+
+* Prompt Engineering, ChatGPT, Claude AI, Microsoft Copilot
+
+## Professional Skills
+
+* Leadership & Event Management, Public Speaking & Presentation, Team Collaboration, Communication Skills, Problem Solving, Technical Documentation
+
 
 ---
 
-## 📫 Contact Me
+# Areas of Interest
 
-- 🔗 LinkedIn: [linkedin.com/in/saleh-sadid-mir-749146281](https://linkedin.com/in/saleh-sadid-mir-749146281)  
-- 🐙 GitHub: [github.com/salehsadid](https://github.com/salehsadid)  
-- 📧 Email: salehsadid16@gmail.com  
+* Software Engineering
+* Full-Stack Web Development
+* Mobile Application Development
+* Artificial Intelligence
+* Embedded Systems
+* Internet of Things (IoT)
+* Hardware Prototyping
+* Research & Innovation
 
 ---
 
-> Feel free to explore, download, or connect!  
-> I'm open to collaborations, internships, research opportunities.
+# Repository Contents
 
+* 📄 `Saleh_Sadid_Mir_CV.pdf` — Latest Curriculum Vitae
+* 📄 `Saleh_Sadid_Mir_Portfolio.pdf` — Project Portfolio
+* 📄 `README.md` — Repository Documentation
+
+---
+
+
+# Contact Information
+
+📧 Email: [salehsadid16@gmail.com](mailto:salehsadid16@gmail.com)
+
+🔗 LinkedIn: https://linkedin.com/in/saleh-sadid-mir-749146281
+
+💻 GitHub: https://github.com/salehsadid
+
+📍 Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
+
+---
+
+## ⭐ Let's Connect
+
+I am open to:
+
+* Software Engineering Internships
+* Research Collaborations
+* Open Source Contributions
+* Web & Mobile Development Projects
+* Embedded Systems & IoT Projects
+
+Feel free to connect and collaborate!
